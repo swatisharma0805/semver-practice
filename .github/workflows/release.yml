@@ -1,0 +1,6 @@
+name: CI/CD Release
+
+on:
+  push:
+    branches:
+      - main
